@@ -14,14 +14,14 @@ The following Python 3 libraries are to be installed (If not already installed) 
 8) itertools
 
 Most of the above mentioned libraries can be installed using 
-'''
+```
 sudo pip3 install <library-name>
-'''
+```
 
 For installing OpenCV on Ubuntu 16.04, use the link given below:
 http://www.pyimagesearch.com/2016/10/24/ubuntu-16-04-how-to-install-opencv/
 
 Download the dlib predictor that has been used in the project from :
 http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
-Move it to the location in the project 'data/DlibPredictor'
+and move it to the location in the project 'data/DlibPredictor'
 
