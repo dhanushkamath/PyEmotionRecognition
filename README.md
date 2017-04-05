@@ -31,6 +31,6 @@ The CK+ dataset has been used for training this model, link : http://www.consort
 A short description for the use of each python script :
 1) OrganizeData.py       : Organizes the images present in the CK+ dataset into their respective emotion folders according to the                            emotion labels.
 2) DataPreProcess.py     : Uses HAAR Cascades to detect faces and crop the organized images.
-3) EmotionClassifier2.py : Trains and saves a Support Vector Machine classifier with linear kernel to classify future images                                according to emotion.
+3) EmotionClassifier2.py : Trains and saves a Support Vector Machine classifier to classify future images                                                    according to emotion.
 4) Model_test2.py        : Loads the saved SVM model, detects the face in the given image and predicts the emotion expressed.
 
