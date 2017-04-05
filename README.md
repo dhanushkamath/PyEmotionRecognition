@@ -1,5 +1,5 @@
 # PyEmotionRecognition
-A Python project to detect an individual's face and recognize emotions expressed, given an image.
+A Python project to detect an individual's face and recognize the emotion expressed, given an image.
 
 ## Getting Started
 ### Prerequisites
