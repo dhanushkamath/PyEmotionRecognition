@@ -34,3 +34,4 @@ A short description for the use of each python script :
 3) EmotionClassifier2.py : Trains and saves a Support Vector Machine classifier to classify future images                                                    according to emotion.
 4) Model_test2.py        : Loads the saved SVM model, detects the face in the given image and predicts the emotion expressed.
 
+van Gent, P. (2016). Emotion Recognition Using Facial Landmarks, Python, DLib and OpenCV. A tech blog about fun things with Python and embedded electronics. Retrieved from: http://www.paulvangent.com/2016/08/05/emotion-recognition-using-facial-landmarks/
